@@ -3868,7 +3868,7 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://cazizq.cn</string>
+			<string>http://10.1.6.27:8080</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
