@@ -3852,17 +3852,17 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>酷咪测试轻量版</string>
+			<string>酷咪轻量版</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 设置</string>
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.5050037C-5EDB-4EFA-9265-A8CD0C4A92A2</string>
+			<string>com.apple.webClip.managed.2AC7560C-037E-4A35-89EE-F4C21BBCD1C3</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>5050037C-5EDB-4EFA-9265-A8CD0C4A92A2</string>
+			<string>2AC7560C-037E-4A35-89EE-F4C21BBCD1C3</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -3878,17 +3878,17 @@
   如果手机设置了锁屏密码，需要输入密码后才能继续安装。
   酷咪官网：kmtv.app</string>
 	<key>PayloadDisplayName</key>
-	<string>酷咪test轻量版</string>
+	<string>酷咪轻量版</string>
 	<key>PayloadIdentifier</key>
-	<string>com.kumi.km20210928Test</string>
+	<string>com.kumi.km20210928</string>
 	<key>PayloadOrganization</key>
-	<string>酷咪test轻量版</string>
+	<string>酷咪轻量版</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>12A8CFAA-B542-428B-81C0-9D68888DB1DE</string>
+	<string>5ED80C5F-4DD4-4000-9102-460E1E835F72</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
