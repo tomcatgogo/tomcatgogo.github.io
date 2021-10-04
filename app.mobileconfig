@@ -3852,7 +3852,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>酷咪轻量版</string>
+			<string>酷咪测试轻量版</string>
 			<key>PayloadDescription</key>
 			<string>配置 Web Clip 设置</string>
 			<key>PayloadDisplayName</key>
@@ -3880,7 +3880,7 @@
 	<key>PayloadDisplayName</key>
 	<string>酷咪测试轻量版</string>
 	<key>PayloadIdentifier</key>
-	<string>com.kumi.km20210928</string>
+	<string>com.kumi.km20210928T</string>
 	<key>PayloadOrganization</key>
 	<string>酷咪测试轻量版</string>
 	<key>PayloadRemovalDisallowed</key>
