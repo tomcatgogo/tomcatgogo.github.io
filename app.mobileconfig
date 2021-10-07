@@ -681,17 +681,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.42587D1F-402D-42EB-A726-191D1F54D19A</string>
+			<string>com.apple.webClip.managed.BE85D971-4FAC-4088-BA58-1F2B8D611168</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>42587D1F-402D-42EB-A726-191D1F54D19A</string>
+			<string>BE85D971-4FAC-4088-BA58-1F2B8D611168</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>http://cazizq.cn?webtype=h5mitao</string>
+			<string>http://svryza.cn?webtype=h5mitao</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -711,7 +711,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>B415AF50-5A56-4274-9B3F-7963B671B0DF</string>
+	<string>56367572-3776-404B-AD5B-03A2BD5A6B69</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
